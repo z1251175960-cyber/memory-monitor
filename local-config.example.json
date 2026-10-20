@@ -1,0 +1,18 @@
+{
+  "importantServices": [
+    {
+      "pattern": "my-tunnel\\.py",
+      "name": "我的内网穿透隧道"
+    },
+    {
+      "pattern": "Watch-Network\\.ps1",
+      "name": "断网自动重连"
+    }
+  ],
+  "customPurposes": [
+    {
+      "pattern": "my-mcp-server",
+      "purpose": "我自己的 MCP 服务（不当作 AI 后台小工具）"
+    }
+  ]
+}

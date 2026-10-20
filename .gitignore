@@ -1,0 +1,6 @@
+# 个人配置：你自己的服务名和路径特征，只留在本机
+local-config.json
+
+# 测试产生的文件
+*.log
+uitest*.png

@@ -1,0 +1,6 @@
+# Windows 脚本保持 CRLF；PowerShell 5.1 需要带 BOM 的 UTF-8，Git 不会改动 BOM
+*.ps1  text eol=crlf
+*.vbs  text eol=crlf
+*.json text eol=crlf
+*.md   text eol=lf
+*.png  binary
